@@ -273,10 +273,12 @@ ul {
   text-decoration: none;
 }
 .tm-position-relative { position: relative; }
-.tm-table-set {
+.tm-track {
   position: absolute;
   bottom: -100px;
   left: 0;
+  width: 989px;
+  height: 523px;;
 }
 .tm-lights-container {
   position: absolute;
